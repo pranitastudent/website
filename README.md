@@ -1,11 +1,11 @@
 # Welcome to data doumentation
-This page is for you to find out more about about the data we use and its source. Please see the  table of  contents page below to navigate to each one of the sections. 
+This page is for you to find out more about about the data we use and its source. Please see the table of contents page below to navigate to each one of the sections. On this page you can find: 
 
 ## Table of Contents
 
- 1. [Heading 1](##heading-1)
- 2. [Heading 2](##heading-2)
- 3. [Heading 3](##heading-3)
+1. [Index](index.md)
+2. [Glossary](glossary.md)
+3. [Fair-use](fairuse.md)
 
 ## Open data
 
